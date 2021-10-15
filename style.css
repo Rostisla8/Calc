@@ -1,0 +1,16 @@
+.calc_inputs{
+    display:flex;
+    flex-direction: column;
+    max-width: 200px;
+    margin-bottom: 10px;
+    
+}
+
+.Calc_btns{
+    margin-bottom: 10px;
+}
+
+body{
+    border: solid black 1px;
+    max-width: 200px;
+}
